@@ -30,6 +30,8 @@ section#login {
     height: 500px;
     border-radius: 20px;
     box-shadow: 3px 3px 15px black;
+
+    transition: width 1s , height 1s; /*animação*/
 }
 
 section#login > div#imagem {
